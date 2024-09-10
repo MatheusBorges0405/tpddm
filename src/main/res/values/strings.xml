@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="campo_nome">Digite Seu Nome</string>
+    <string name="campo_numero">Digite seu whatsapp</string>
+    <string name="campo_link">Digite o link da foto</string>
+    <string name="btn_cadastrar">Cadastrar</string>
+    <string name="ver_agenda">Ver contatos cadastrados</string>
+</resources>
